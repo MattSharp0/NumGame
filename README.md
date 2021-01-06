@@ -1,7 +1,7 @@
 # NumGame
 
-#Hello! 
+Hello! 
 
-#This is my first python program, a number guessing game. 
+This is my first python program, a number guessing game. 
 
-#Cheers!
+Cheers!
